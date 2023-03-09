@@ -2,7 +2,7 @@
 
 ## I am a Full-Stack Developer who is...
 - :sparkles: transitioning into tech from an education and travel background
-- :computer: passionate about learning through projects and tutorials!
+- :desktop_computer: passionate about learning through projects and tutorials!
 - 🔭 working on creating a [geography game](https://github.com/mckorling/learn-the-world-map) and revamping my [portfolio site](https://mckorling.github.io/portfolio/)
 - 🌱 learning Node.js, Next.js, and anything else interesting I stumble upon!
 
@@ -35,20 +35,3 @@
 
 ---
 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megan-korling/)
-
-
-
-<!--
-**mckorling/mckorling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
